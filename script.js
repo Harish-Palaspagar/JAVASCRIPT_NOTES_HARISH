@@ -17,7 +17,7 @@ let myUndefined;
 console.log(typeof myUndefined); //undefined
 
 var varProblem = "Harish";
-var varProblem = "varProblem"; // what if the code is bigger and mistakenl we gave same name it can hamper thee logic so dont use this keyword to declare the variable
+var varProblem = "varProblem"; // what if the code is bigger and mistakenly we gave same name it can hamper thee logic so dont use this keyword to declare the variable
 console.log(varProblem); // varProblem
 
 let myLet = 20;
